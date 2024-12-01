@@ -1,4 +1,4 @@
-package skboard.repository;
+package com.skboard.repository;
 
 public class TestRepository {
 
